@@ -10,6 +10,7 @@ def guessing_game():
 
         numero=random.randint(minimum,maximum)
         tries=0
+        print(numero)
         
         x=int(input('Now, try to guess my number! \n'))
         
