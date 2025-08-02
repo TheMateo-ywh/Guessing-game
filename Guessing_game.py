@@ -29,3 +29,5 @@ def guessing_game():
     except ValueError:
         print('Invalid input of range. Please enter integers')
 guessing_game()
+
+# Esto es para probar que el código funciona
